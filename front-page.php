@@ -11,7 +11,7 @@ var user = {
 
 document.getElementById("demo").innerHTML = user.say("honk");
 </script>
-
+Meinge eigene Startseite
 
 </body>
 </html>

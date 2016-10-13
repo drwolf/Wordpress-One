@@ -12,6 +12,9 @@ var user = {
 document.getElementById("demo").innerHTML = user.say("honk");
 </script>
 Meinge eigene Startseite
+    (WP even gives in the Domain name of the website into the JS funciton here as the therin defined user:<br>
+    "responsive-rob.22web.org says: (alert) honk"
+    and overwrites the user defined in this file.
 
 </body>
 </html>
